@@ -26,13 +26,13 @@ Welcome to **PassGen**, a minimalist yet powerful password generator built with 
     ```bash
     python passgen.py
 
-🖼️ Screenshot
+## 🖼️ Screenshot
 Here’s what PassGen looks like in action:
+
 ![Screenshot of PassGen](screenshot.png)
 
-📝 Save your screenshot as screenshot.png in the project root directory and it'll show up right here on GitHub.
+## 🧠 How It Works
 
-🧠 How It Works
 You simply input how many characters you want in each category:
 
 Lowercase letters (a-z)
@@ -45,7 +45,8 @@ Special characters (!#$%&()*+-.)
 
 Click "Create password" and voilà — a randomized password appears below.
 
-💡 Future Ideas
+## 💡 Future Ideas
+
 ✅ Copy-to-clipboard button
 
 ⏳ Password expiration timer
@@ -54,10 +55,10 @@ Click "Create password" and voilà — a randomized password appears below.
 
 🧪 Strength meter (Weak / Medium / Strong)
 
-👨‍💻 Created By
+## 👨‍💻 Created By
 This little project was crafted with 💙 by Harun Riđević.
 
 Feel free to use it, share it, or build on top of it!
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
