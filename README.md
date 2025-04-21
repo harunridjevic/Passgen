@@ -1,3 +1,4 @@
+**⚠️ Disclaimer:** This is an **old project** created in 2022. It was developed for learning and experimentation purposes and is no longer actively maintained.
 # 🔐 PassGen – The Tiny Password Generator with a GUI
 
 Welcome to **PassGen**, a minimalist yet powerful password generator built with Python and Tkinter. Whether you're a privacy freak, a dev needing test passwords, or just someone who forgets their "P@ssw0rds", this tool’s got your back.
