@@ -4,7 +4,7 @@ from tkinter import *
 import random
 
 root = tk.Tk()
-root.title('PassGen')
+root.title('Passgen')
 
 texts = tk.StringVar()
 textb = tk.StringVar()
