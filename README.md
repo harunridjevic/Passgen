@@ -21,7 +21,7 @@ Welcome to **PassGen**, a minimalist yet powerful password generator built with 
 1. Make sure you have **Python 3.x** installed.
 2. Download or clone this repo:
    ```bash
-   git clone https://github.com/yourusername/passgen.git
+   git clone https://github.com/harunridjevic/passgen.git
    cd passgen
 3. Run it:
     ```bash
